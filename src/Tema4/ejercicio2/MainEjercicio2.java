@@ -1,6 +1,6 @@
 package Tema4.ejercicio2;
 
-public class Main {
+public class MainEjercicio2 {
 
     public static void main(String[] args) {
 
